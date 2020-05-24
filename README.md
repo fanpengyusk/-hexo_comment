@@ -1,1 +1,1 @@
-# -hexo_comment
+# hexo_comment
